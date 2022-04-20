@@ -1,0 +1,6 @@
+C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\bin\LoginPageProject.dll.config
+C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\bin\LoginPageProject.dll
+C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\bin\LoginPageProject.pdb
+C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\obj\Debug\LoginPageProject.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\obj\Debug\LoginPageProject.dll
+C:\Users\Training\Documents\Training Projects\LoginPageProject\LoginPageProject\obj\Debug\LoginPageProject.pdb
